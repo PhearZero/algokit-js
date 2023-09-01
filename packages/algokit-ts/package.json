@@ -1,0 +1,12 @@
+{
+  "name": "algokit-ts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@algorandfoundation/algokit-utils": "3.0.0-beta.4"
+  }
+}
