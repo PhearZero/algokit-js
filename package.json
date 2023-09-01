@@ -7,11 +7,13 @@
     "packages/*"
   ],
   "scripts": {
+    "dev": "nodemon --watch 'packages/ts-toolkit/dist/**' --exec \"npm run build:3-copy-pkg-json -w @algorandfoundation/algokit-utils \"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "nodemon": "^3.0.1",
     "ts-node": "^10.9.1",
     "tsx": "^3.12.8"
   }
