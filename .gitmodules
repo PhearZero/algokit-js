@@ -1,0 +1,6 @@
+[submodule "packages/algokit-utils"]
+	path = packages/algokit-utils
+	url = git@github.com:PhearZero/algokit-utils-ts.git
+[submodule "packages/algokit-client-generator"]
+	path = packages/algokit-client-generator
+	url = git@github.com:PhearZero/algokit-client-generator-ts.git

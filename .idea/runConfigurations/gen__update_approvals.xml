@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="gen) update-approvals" type="js.build_tools.npm">
+    <package-json value="$PROJECT_DIR$/packages/algokit-client-generator/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="update-approvals" />
+    </scripts>
+    <node-interpreter value="project" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
