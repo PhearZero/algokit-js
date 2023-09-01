@@ -4,3 +4,6 @@
 [submodule "packages/algokit-client-generator"]
 	path = packages/algokit-client-generator
 	url = git@github.com:PhearZero/algokit-client-generator-ts.git
+[submodule "packages/ts-toolkit"]
+	path = packages/ts-toolkit
+	url = git@github.com:PhearZero/ts-toolkit.git
