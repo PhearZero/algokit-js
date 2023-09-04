@@ -7,3 +7,6 @@
 [submodule "packages/ts-toolkit"]
 	path = packages/ts-toolkit
 	url = git@github.com:PhearZero/ts-toolkit.git
+[submodule "packages/vite-example"]
+	path = packages/vite-example
+	url = git@github.com:aorumbayev/malformed-addr-sample.git
